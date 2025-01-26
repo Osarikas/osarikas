@@ -37,7 +37,3 @@
 <img src="https://raw.githubusercontent.com/osarikas/osarikas/output/snake.svg" alt="Snake animation" />
 
 ###
-
-<p align="left">Hello World!!</p>
-
-###
